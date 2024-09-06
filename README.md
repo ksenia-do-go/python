@@ -1,1 +1,1 @@
-# python
+love python
